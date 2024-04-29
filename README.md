@@ -16,11 +16,9 @@ https://github.com/anushkadasgupta/Website-Work-Opportunities-in-Japan/assets/70
 Javascript code:          
 
 
-https://github.com/anushkadasgupta/Website-Work-Opportunities-in-Japan/assets/70762274/016d8e7e-09ca-4ed2-908d-979952cdfd4e
+https://github.com/anushkadasgupta/Website-Work-Opportunities-in-Japan/assets/70762274/016d8e7e-09ca-4ed2-908d-979952cdfd4e               
 
 
-
-
-
+                                               
 Try the website: https://anushkadasgupta-workinjapan.netlify.app/
 
