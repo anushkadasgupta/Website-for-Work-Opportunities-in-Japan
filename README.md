@@ -1,5 +1,10 @@
 # Website-Work-Opportunities-in-Japan.
 The main objective is to design and develop a website for work opportunities in Japan.                       
+
+                          
+Try the website: https://anushkadasgupta-workinjapan.netlify.app/
+
+
      
 HTML code:                                                          
 
@@ -20,5 +25,5 @@ https://github.com/anushkadasgupta/Website-Work-Opportunities-in-Japan/assets/70
 
 
                                                
-Try the website: https://anushkadasgupta-workinjapan.netlify.app/
+
 
