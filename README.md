@@ -1,4 +1,4 @@
-# Website-Work-Opportunities-in-Japan.
+# Website-for-Work-Opportunities-in-Japan.
 The main objective is to design and develop a website for work opportunities in Japan.           
 <h1>Website Summary</h1>            
 The main objective is to create a visually appealing and user-friendly website focused on showcasing work opportunities in Japan.       
